@@ -2,6 +2,8 @@
 
 > **Documentation:** For network topology diagrams, implementation screenshots, configuration details, IP addressing tables, OSPF configurations, testing results, and performance analysis, please refer to the accompanying **[Project Report](Project%20Report.pdf)**.
 
+<img width="1920" height="1080" alt="image (9)" src="https://github.com/user-attachments/assets/4449e6fe-dd22-41c4-a3c7-2e2d000e4821" />
+
 ## Overview
 
 This project demonstrates the design and implementation of a **High Availability (HA) Web Server Network** using dynamic routing, redundant network paths, and load balancing techniques. The network is designed to ensure continuous web service availability by eliminating single points of failure and automatically rerouting traffic when failures occur.
