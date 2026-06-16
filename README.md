@@ -2,7 +2,7 @@
 
 
 
-> \*\*Documentation:\*\* The complete project documentation, including network topology diagrams, configuration screenshots, implementation details, testing procedures, and performance analysis, is available in the accompanying \*\*Project Report\*\*. please see the \[Project Report](Project%20Report.pdf).
+- \*\*Documentation:\*\* The complete project documentation, including network topology diagrams, configuration screenshots, implementation details, testing procedures, and performance analysis, is available in the accompanying \*\*Project Report\*\*. please see the \[Project Report](Project%20Report.pdf).
 
 
 
